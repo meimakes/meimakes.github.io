@@ -6,13 +6,15 @@ Built by [Diana Park](https://x.com/intent/user?screen_name=madebydia).
 
 ## Page
 
-- `index.html` — concise homepage for Diana Park, Raising Pixels, and Build With Your Kid
+- `index.html` — concise homepage for Diana Park, with Build With Your Kid and an invitation to follow her work on X
 - `llms.txt` — concise machine-readable identity and link summary
 
 ## Primary Links
 
-- [Raising Pixels](https://raisingpixels.dev) — parent-dev writing and resources for teaching kids to think like builders
-- [Build With Your Kid](https://buildwithyourkid.com) — 12-week computational thinking curriculum for ages 2-6
+- [Build With Your Kid](https://buildwithyourkid.com/12-weeks/) — 12-week computational thinking curriculum for ages 2–6
+- [Shop](https://shop.buildwithyourkid.com) — Build With Your Kid books and resources
+- [X / @madebydia](https://x.com/madebydia) — follow Diana’s work
+- [Raising Pixels](https://blog.raisingpixels.dev) — occasional writing
 
 ## Tech
 

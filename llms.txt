@@ -1,15 +1,16 @@
 # madebydia.com
 
-> Diana Park — former software engineering director, indie builder, and homeschool mom.
+> Diana Park — software engineer turned stay-at-home mom, building curriculum, open-source tools, and software for real family life.
 
 madebydia.com is a concise identity and domain landing page.
 
-## Primary Links
+## Build With Your Kid
 
-- [Raising Pixels](https://raisingpixels.dev): Writing and resources for parents teaching kids to think like builders.
-- [Build With Your Kid](https://buildwithyourkid.com): Hands-on computational thinking curriculum for parents and children ages 2–6.
+- [Curriculum](https://buildwithyourkid.com/12-weeks/): Twelve weeks of hands-on tech projects for parents and children ages 2–6.
+- [Shop](https://shop.buildwithyourkid.com): Build With Your Kid books and resources.
 
-## Social
+## Follow and Read
 
+- [X / @madebydia](https://x.com/madebydia): What Diana is building and what happens when her family uses it.
 - [GitHub](https://github.com/madebydia)
-- [X / @madebydia](https://x.com/intent/user?screen_name=madebydia)
+- [Raising Pixels](https://blog.raisingpixels.dev): Occasional writing.
